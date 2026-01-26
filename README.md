@@ -1,12 +1,12 @@
 # **MTEC 1201: Computer Programming for Interactive Media I (Section D02)**   
 
 **Class meetings:** In person, Fridays 10:00 AM - 1:40 PM, Voorhees Hall V-103B
+
 **Course site:** [Github](https://github.com/entertainmenttechnology/Palocz-MTEC1201_D02-Spring2026)
 
 **Professor:** Alexandra Palocz                  
 * **Email:** alexandra.palocz69@citytech.cuny.edu    
-* **Office hours:** [Thursdays 12-2pm](https://calendly.com/alexandra-palocz69-citytech)     
-* _Please reach out by email to schedule meetings outside of listed hours._
+* **Office hours:** [Thursdays 12-2pm](https://calendly.com/alexandra-palocz69-citytech)    (_Reach out by email to schedule meetings outside of listed hours._)
 
 ## COURSE DESCRIPTION  
 This course introduces students to foundational programming concepts and techniques, with a focus on coding for creative applications. Students design, develop, and code interactive software experiences integrating computer graphics, image assets, text and fonts, and additional digital media. Programming for Interactive Media is the first in a sequence of coding courses for the Emerging Media Technology program, preparing students for advanced coursework in the program.
@@ -56,10 +56,10 @@ By signing up for this class, you are making a **commitment to fully participate
 
 ### INCLUSIVITY
       
-It is my intent that students from all backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset, resource, strength, and benefit, rather than a checklist item or worse, a hindrance. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups. Feel free to reach out via email at any time about any issues concerning you or with any such ideas.
+It is my intent that students from all backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset, resource, strength, and benefit, rather than a checklist item or worse, a hindrance. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students. Feel free to reach out via email at any time about any issues concerning you or with any such ideas.
 
-#### Note on Names and Pronoun Usage ####
- This class depends on group discussion in addition to individual work. As such, it's important for us to foster an atmosphere of inclusion and mutual respect within the classroom; this includes recognizing all students' chosen gender pronoun(s) and chosen names. If the class roster does not align with your name, gender, and/or pronouns, please inform the instructor.
+**Note on Names and Pronoun Usage:**
+ This class depends on group discussion in addition to individual work. As such, it's important for us to foster an atmosphere of inclusion and mutual respect; this includes recognizing all students' chosen gender pronoun(s) and chosen names. If the class roster does not align with your name, gender, and/or pronouns, please inform the instructor.
   
 ### PARTICIPATION POLICY (The Rules + Regulations for Keeping the Ship Sailing)     
 * **We will begin promptly at the start of each class.**           
@@ -75,8 +75,16 @@ Students and all others who work with information, ideas, texts, images, music, 
 
 _Instructor’s note:_ all borrowed text, code, or media used for this course must be attributed to the original creator, **whether human or AI**. Any direct text quotes from another source must be specified with quotes and appropriately cited. **Code borrowed from another source at more than four lines in length must be attributed as a //comment within the code itself.** If you are unsure of whether or not your work may constitute plagiarism, please check with your instructor before submitting. **Any instance of plagiarism will be reported to the MTEC Program Director, the Chair of ENT, and City Tech’s Academic Integrity Officer.**    
 
+## RESOURCES AND ACCOMMODATIONS ##
+
+### COUNSELING SERVICES CENTER ### 
+The [Counseling Services Center](http://www.citytech.cuny.edu/counseling/) supports the educational, emotional and career development of City Tech students by providing opportunities for skill development, counseling and referrals that address obstacles to success. The Center is currently available to students remotely and in-person. For questions and appointments, contact the Center at counseling@citytech.cuny.edu or 718-260-5030.  
+
+### COURSE ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES ###   
+In order to receive disability-related academic accommodations students must first be registered with the [Center for Student Accessibility](http://www.citytech.cuny.edu/accessibility/). Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with the Center (phone: 718–260–5143). If you have already registered with the Center, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her. 
+
 ## GRADING    
-**COURSE GRADING**  
+### COURSE GRADING ###
 * Participation: 20%  
 * Weekly "Short Study" Assignments: 35%  
 * Midterm Project: 20%  
@@ -91,151 +99,148 @@ Participation will be graded out of 3 points:
 Weekly "Short Study" Assignments will be graded out of 10 points, based on completion of requirements.
 Midterm and Final projects will be graded on a standard A-F scale, according to criteria detailed in the final project assignment.
   
-_All work must be submitted on time. Late assignments will not be accepted. Please contact your instructor if there are extenuating circumstances, in which case lateness may be excused on a case by case basis._            
+_**All work must be submitted on time. Late assignments will not be accepted.** Please contact your instructor if there are extenuating circumstances, in which case lateness may be excused on a case by case basis._            
 
-## COURSE ACCOMMODATIONS FOR STUDENTS WITH DISABILITIES    
-In order to receive disability-related academic accommodations students must first be registered with the [Center for Student Accessibility](http://www.citytech.cuny.edu/accessibility/). Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with the Center (phone: 718–260–5143). If you have already registered with the Center, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her.  
-
-## A NOTE ON CITY TECH'S COUNSELING CENTER     
-The [Counseling Services Center](http://www.citytech.cuny.edu/counseling/) supports the educational, emotional and career development of City Tech students by providing opportunities for skill development, counseling and referrals that address obstacles to success. The Center is currently available to students remotely and in-person. For questions and appointments, contact the Center at counseling@citytech.cuny.edu or 718-260-5030.  
 
 ## COURSE SCHEDULE / CALENDAR  
 _The topics and schedule are subject to change as needed. Assignment details and requirements are announced in class and posted to our GitHub each week._  
 
-**SESSION 1: [1/30]**   
-TOPIC   
+#### SESSION 1: [1/30] ####  
+_TOPIC_   
 * Introductions   
 * Course Overview
-* Getting started with GitHub
 * What is Computational Art and Design?
 * Exploring the p5.js library 
 
-**SESSION 2: [2/6]**   
-TOPIC   
+_TECHNIQUE_ 
+* Getting started with GitHub
+
+#### SESSION 2: [2/6] #### 
+_TOPIC_
 * Drawing with Algorithms: Instructions-Based Art and Design
 * Code Editor and File Structure Basics
  
-TECHNIQUE   
+_TECHNIQUE_ 
 * Introduction to Visual Studio Code
 * Introduction to .js, .html, .css files and structure 
 * Introduction to programming structure, comments, syntax  
 * Drawing with the p5.js library: coordinates, points, lines, primitives, colors 
 
-**SESSION 3: [2/13]**   
-TOPIC   
+#### SESSION 3: [2/13] ####
+_TOPIC_  
 * Interactive Images and User Input   
 
-TECHNIQUE       
+_TECHNIQUE_       
 * Program flow: setup() and draw(), code blocks 
 * Variables- data types, declaration, initialization   
 * Variable scope (global, block, function)   
 * Operators: arithmetic (including modulus), boolean, comparison  
 * Basic user input using mouse and keyboard 
 
-**SESSION 4: [2/20]**   
-TOPIC   
+#### SESSION 4: [2/20] ####   
+_TOPIC_   
 * The "If" Conditions for Interactivity  
 * Creating Uncertainty 
 * Introduction to Git and GitHub
 
-TECHNIQUE   
+_TECHNIQUE_   
 * Conditional statements  
 * Random function  
 * Event functions 
 * Intro to flow charting and designing for interactivity
 * Version control with Git and managing a GitHub repository   
  
-**SESSION 5: [2/27]**   
-TOPIC   
+#### SESSION 5: [2/27] ####   
+_TOPIC_   
 * Time-Based Media, Strategies for Animation  
 * Introduction to Midterm Projects  
 
-TECHNIQUE      
+_TECHNIQUE_      
 * Loading external media assets: images and fonts 
 * Working with motion: speed, direction, translation, easing, and interpolation 
 * Variable incrementation and de-incrementation 
 * System clock, millis(), one-time + repeating timers 
 
-**SESSION 6: [3/6]**   
-TOPIC  
+#### SESSION 6: [3/6] ####   
+_TOPIC_  
 * Functions and Modularity 
 * Programming State Changes Part 1 
 * Interface review- graphical buttons, overlay triggers, etc.   
   
-TECHNIQUE
+_TECHNIQUE_
 * Creating user-defined functions  
 * Function arguments and parameters  
 * Return statement  
 * Coding state changes  
 
 
-**SESSION 7: [3/13]**   
-TOPIC    
+#### SESSION 7: [3/13] ####   
+_TOPIC_    
 * Review and Special Topics Related to Midterm (By Request)  
 * Playtesting Midterm WIP 
 
-TECHNIQUE     
+_TECHNIQUE_     
 * Review and special topics   
 
-**[3/20] - NO CLASS SESSION**  
+#### _[3/20] - NO CLASS SESSION_ ####
 
-**SESSION 8: [3/27]**   
-TOPIC       
+#### SESSION 8: [3/27] ####   
+_TOPIC_       
 * Midterm Project Presentations  
  
-TECHNIQUE   
+_TECHNIQUE_   
 * Critique of midterm projects
 
-**[4/3] - SPRING RECESS**
+#### _[4/3] - SPRING RECESS_ ####
 
-**SESSION 9: [4/10]**   
-TOPIC   
+#### SESSION 9: [4/10] ####   
+_TOPIC_   
 * Iteration + Patterns
 
-TECHNIQUE 
+_TECHNIQUE_ 
 * While and for loops  
    
-**SESSION 10: [4/17]**     
-TOPIC
+#### SESSION 10: [4/17] ####     
+_TOPIC_
 * Storing Data in Arrays
    
-TECHNIQUE
+_TECHNIQUE_
 * Working with Arrays
    
-**SESSION 11: [4/24]**   
-TOPIC   
+#### SESSION 11: [4/24] ####   
+_TOPIC_   
 * Introduction to Object Oriented Programming
 * Introduction to Final Projects 
              
-TECHNIQUE  
+_TECHNIQUE_  
 * Objects and classes  
 * Constructor and methods 
 * Arrays of objects     
 
-**SESSION 12: [5/1]**      
-TOPIC             
+#### SESSION 12: [5/1] ####      
+_TOPIC_             
 * OOP "Remix" / OOP Review Continued  
 * Working with Libraries  
 * p5 Sound Library 
       
-TECHNIQUE   
+_TECHNIQUE_   
 * Constructing and deconstructing OOP classes, Continued   
 * Implementing libraries   
 
-**SESSION 13: [5/8]**    
-TOPIC             
+#### SESSION 13: [5/8] ####    
+_TOPIC_             
 * Playtesting and Work-in-Progress Critiques for Final Projects  
 * Hosting p5.js Projects Online
 
-TECHNIQUE         
+_TECHNIQUE_         
 * Deploy a website using GitHub repository
            
-**SESSION 14: [5/15]**    
-TOPIC   
+#### SESSION 14: [5/15] ####    
+_TOPIC_   
 * Playtesting and Work-in-Progress Critiques for Final Projects  
 * Special Topics TBD / Review
   
-**SESSION 15: [5/22]**    
-TOPIC   
+#### SESSION 15: [5/22] ####    
+_TOPIC_   
 * **FINAL PROJECTS DUE: Project Presentations / Critiques**
 
