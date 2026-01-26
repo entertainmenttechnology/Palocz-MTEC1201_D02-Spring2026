@@ -1,6 +1,7 @@
 # **MTEC 1201: Computer Programming for Interactive Media I (Section D02)**   
 
 **Class meetings:** In person, Fridays 10:00 AM - 1:40 PM, Voorhees Hall V-103B
+
 **Course site:** [Github](https://github.com/entertainmenttechnology/Palocz-MTEC1201_D02-Spring2026)
 
 **Professor:** Alexandra Palocz                  
