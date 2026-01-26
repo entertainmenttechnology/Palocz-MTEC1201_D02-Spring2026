@@ -1,17 +1,18 @@
-# **MTEC 1201: COMPUTER PROGRAMMING FOR INTERACTIVE MEDIA I, Section D02**   
-Class meetings: In person, Fridays 10:00 AM - 1:40 PM, Voorhees Hall V-103B
-Course site: [\Github\]](https://github.com/entertainmenttechnology/Palocz-MTEC1201_D02-Spring2026)
+# **MTEC 1201: Computer Programming for Interactive Media I (Section D02)**   
 
-Professor: Alexandra Palocz                  
-Email: Alexandra.Palocz69@citytech.cuny.edu    
-Office hours: [\Thursdays 12-2pm\](https://calendly.com/alexandra-palocz69-citytech)     
-_Please email if you would like to schedule a meeting outside of listed hours._
+**Class meetings:** In person, Fridays 10:00 AM - 1:40 PM, Voorhees Hall V-103B
+**Course site:** [Github\]](https://github.com/entertainmenttechnology/Palocz-MTEC1201_D02-Spring2026)
+
+**Professor:** Alexandra Palocz                  
+**Email:** alexandra.palocz69@citytech.cuny.edu    
+**Office hours:** [Thursdays 12-2pm](https://calendly.com/alexandra-palocz69-citytech)     
+_Please reach out by email to schedule meetings outside of listed hours._
 
 ## COURSE DESCRIPTION  
 This course introduces students to foundational programming concepts and techniques, with a focus on coding for creative applications. Students design, develop, and code interactive software experiences integrating computer graphics, image assets, text and fonts, and additional digital media. Programming for Interactive Media is the first in a sequence of coding courses for the Emerging Media Technology program, preparing students for advanced coursework in the program.
      
 ### LEARNING OUTCOMES       
-For the successful completion of this course, a student should be able to | Evaluation methods and criteria:
+For the successful completion of this course, a student should be able to: | Evaluation methods and criteria:
 :--- | :--- 
 Employ scientific reasoning and logical thinking. | Students complete technical exercises, flow-charts, short study assignments, and projects employing logic-based computation.
 Use creativity to solve problems. | Students use creative thinking in order to apply technical concepts to build code-driven interactive media projects.
@@ -54,11 +55,11 @@ By signing up for this class, you are making a **commitment to fully participate
 * **To discuss a longer matter** with your instructor, set up an appointment for office hours.  
 
 ### INCLUSIVITY
-**Part I: Name + Pronoun Usage**       
-This course consists of individual work and group discussion. We must therefore strive to create an atmosphere of inclusion and mutual respect: all students will have their chosen gender pronoun(s) and chosen name recognized. If the class roster does not align with your name, gender, and/or pronouns, please inform the instructor.
-
-**Part II: Inclusivity Statement**          
+      
 It is my intent that students from all backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset, resource, strength, and benefit, rather than a checklist item or worse, a hindrance. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups. Feel free to reach out via email at any time about any issues concerning you or with any such ideas.
+
+#### Note on Names and Pronoun Usage ####
+ This class depends on group discussion in addition to individual work. As such, it's important for us to foster an atmosphere of inclusion and mutual respect within the classroom; this includes recognizing all students' chosen gender pronoun(s) and chosen names. If the class roster does not align with your name, gender, and/or pronouns, please inform the instructor.
   
 ### PARTICIPATION POLICY (The Rules + Regulations for Keeping the Ship Sailing)     
 * **We will begin promptly at the start of each class.**           
