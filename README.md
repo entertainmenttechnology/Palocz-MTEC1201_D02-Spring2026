@@ -107,21 +107,21 @@ _The topics and schedule are subject to change as needed. Assignment details and
 
 Date | Topic | Technique 
 :--- | :--- | :--- 
-| **1/30 (Session 1)** |  <ul> <li>Introductions</li> <li>Course Overview</li> <li> What is Computational Art and Design?</li> <li> Exploring the p5.js library </li></ul> | 
-| **2/6 (Session 2)** |  <ul> <li>Drawing with Algorithms: Instructions-Based Art and Design</li><li>Code Editor and File Structure Basics</li></ul> | <ul><li>Introduction to Visual Studio Code</li> <li>Introduction to .js, .html, .css files and structure</li> <li> Introduction to programming structure, comments, syntax </li> <li>Drawing with the p5.js library: coordinates, points, lines, primitives, colors </li></ul>
-| **2/13 (Session 3)** |  <ul> <li>Interactive Images and User Input  </li></ul> | <ul><li>Program flow: setup() and draw(), code blocks </li> <li> Variables- data types, declaration, initialization </li> <li> Variable scope (global, block, function) </li> <li> Operators: arithmetic (including modulus), boolean, comparison  </li> <li> Basic user input using mouse and keyboard </li></ul>
-| **2/20 (Session 4)** |  <ul> <li>The "If" Conditions for Interactivity  </li> <li>Creating Uncertainty </li> <li>Introduction to Git and GitHub</li> </ul> | <ul> <li>Conditional statements  </li> <li>Random function</li> <li>Event functions </li> <li>Intro to flow charting and designing for interactivity</li> <li>Version control with Git and managing a GitHub repository</li> </ul>
-| **2/27 (Session 5)** |  <ul> <li>Time-Based Media, Strategies for Animation </li> <li>Introduction to Midterm Projects </li> </ul> | <ul> <li>Loading external media assets: images and fonts </li> <li>Working with motion: speed, direction, translation, easing, and interpolation </li> <li>Variable incrementation and de-incrementation </li> <li>System clock, millis(), one-time + repeating timers </li> </ul>
-| **3/6 (Session 6)** |  <ul> <li>Functions and Modularity </li> <li>Programming State Changes Part 1 </li> <li>Interface review - graphical buttons, overlay triggers, etc.  </li> </ul> | <ul> <li>Creating user-defined functions  </li> <li>Function arguments and parameters </li> <li>Return statement</li> <li>Coding state changes </li></ul>
-| **3/13 (Session 7)** |  <ul> <li>Review and Special Topics Related to Midterm (By Request)</li> <li>Playtesting Midterm WIP </li> </ul> | <ul> <li>Review and special topics </li> </ul>
-| **3/20 (No class session)** | <hr> | <hr>
-| **3/27 (Session 8)** |  <ul> <li>Midterm Project Presentations </li> </ul> | <ul> <li>Critique of midterm projects</li> </ul>
-| **4/3 (Spring Recess)** | <hr> | <hr>
-| **4/10 (Session 9)** |  <ul> <li>Iteration and Patterns</li> </ul> | <ul> <li>While and for loops </li> </ul>
-| **4/17 (Session 10)** |  <ul> <li>Storing Data in Arrays</li> </ul> | <ul> <li>Working with Arrays</li> </ul>
-| **4/24 (Session 11)** |  <ul> <li>Introduction to Object Oriented Programming</li> <li>Introduction to Final Projects </li> </ul> | <ul> <li>Objects and classes </li> <li>Constructor and methods</li> <li>Arrays of objects </li> </ul>
-| **5/1 (Session 12)** |  <ul> <li>OOP "Remix" / OOP Review Continued  </li> <li>Working with Libraries </li> <li>p5 Sound Library</li> </ul> | <ul> <li>Constructing and deconstructing OOP classes, Continued </li> <li>Implementing libraries </li> </ul>
-| **5/8 (Session 13)** |  <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects</li> <li>Hosting p5.js Projects Online</li> </ul> | <ul> <li>Deploy a website using GitHub repository</li> </ul>
-| **5/15 (Session 14)** |  <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects </li> <li>Special Topics / Review</li> </ul> | 
-| **5/22 (Session 15)** | <ul> **FINAL PROJECTS DUE: Project Presentations / Critiques** </ul>
+| **1/30 <br> Session 1** |  <ul> <li>Introductions</li> <li>Course Overview</li> <li> What is Computational Art and Design?</li> <li> Exploring the p5.js library </li></ul> | 
+| **2/6 <br> Session 2** |  <ul> <li>Drawing with Algorithms: Instructions-Based Art and Design</li><li>Code Editor and File Structure Basics</li></ul> | <ul><li>Introduction to Visual Studio Code</li> <li>Introduction to .js, .html, .css files and structure</li> <li> Introduction to programming structure, comments, syntax </li> <li>Drawing with the p5.js library: coordinates, points, lines, primitives, colors </li></ul>
+| **2/13 <br> Session 3** |  <ul> <li>Interactive Images and User Input  </li></ul> | <ul><li>Program flow: setup() and draw(), code blocks </li> <li> Variables- data types, declaration, initialization </li> <li> Variable scope (global, block, function) </li> <li> Operators: arithmetic (including modulus), boolean, comparison  </li> <li> Basic user input using mouse and keyboard </li></ul>
+| **2/20 <br> Session 4** |  <ul> <li>The "If" Conditions for Interactivity  </li> <li>Creating Uncertainty </li> <li>Introduction to Git and GitHub</li> </ul> | <ul> <li>Conditional statements  </li> <li>Random function</li> <li>Event functions </li> <li>Intro to flow charting and designing for interactivity</li> <li>Version control with Git and managing a GitHub repository</li> </ul>
+| **2/27 <br> Session 5** |  <ul> <li>Time-Based Media, Strategies for Animation </li> <li>Introduction to Midterm Projects </li> </ul> | <ul> <li>Loading external media assets: images and fonts </li> <li>Working with motion: speed, direction, translation, easing, and interpolation </li> <li>Variable incrementation and de-incrementation </li> <li>System clock, millis(), one-time + repeating timers </li> </ul>
+| **3/6 <br> Session 6** |  <ul> <li>Functions and Modularity </li> <li>Programming State Changes Part 1 </li> <li>Interface review - graphical buttons, overlay triggers, etc.  </li> </ul> | <ul> <li>Creating user-defined functions  </li> <li>Function arguments and parameters </li> <li>Return statement</li> <li>Coding state changes </li></ul>
+| **3/13 <br> Session 7** |  <ul> <li>Review and Special Topics Related to Midterm (By Request)</li> <li>Playtesting Midterm WIP </li> </ul> | <ul> <li>Review and special topics </li> </ul>
+| **3/20 <br> No class session** | <hr> | <hr>
+| **3/27 <br> Session 8** |  <ul> <li>Midterm Project Presentations </li> </ul> | <ul> <li>Critique of midterm projects</li> </ul>
+| **4/3 <br> Spring Recess** | <hr> | <hr>
+| **4/10 <br> Session 9** |  <ul> <li>Iteration and Patterns</li> </ul> | <ul> <li>While and for loops </li> </ul>
+| **4/17 <br> Session 10** |  <ul> <li>Storing Data in Arrays</li> </ul> | <ul> <li>Working with Arrays</li> </ul>
+| **4/24 <br> Session 11** |  <ul> <li>Introduction to Object Oriented Programming</li> <li>Introduction to Final Projects </li> </ul> | <ul> <li>Objects and classes </li> <li>Constructor and methods</li> <li>Arrays of objects </li> </ul>
+| **5/1 <br> Session 12** |  <ul> <li>OOP "Remix" / OOP Review Continued  </li> <li>Working with Libraries </li> <li>p5 Sound Library</li> </ul> | <ul> <li>Constructing and deconstructing OOP classes, Continued </li> <li>Implementing libraries </li> </ul>
+| **5/8 <br> Session 13** |  <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects</li> <li>Hosting p5.js Projects Online</li> </ul> | <ul> <li>Deploy a website using GitHub repository</li> </ul>
+| **5/15 <br> Session 14** |  <ul> <li>Playtesting and Work-in-Progress Critiques for Final Projects </li> <li>Special Topics / Review</li> </ul> | 
+| **5/22 <br> Session 15** | <ul> **FINAL PROJECTS DUE: Project Presentations / Critiques** </ul>
 
