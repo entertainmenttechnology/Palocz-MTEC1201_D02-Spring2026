@@ -6,7 +6,7 @@
 
 **Professor:** Alexandra Palocz                  
 * **Email:** alexandra.palocz69@citytech.cuny.edu    
-* **Office hours:** [Thursdays 12-2pm](https://calendly.com/alexandra-palocz69-citytech)    (_Reach out by email to schedule meetings outside of listed hours._)
+* **Office hours:** [Thursdays, 12-2pm](https://calendly.com/alexandra-palocz69-citytech)    (_Reach out by email to schedule meetings outside of listed hours._)
 
 ## COURSE DESCRIPTION  
 This course introduces students to foundational programming concepts and techniques, with a focus on coding for creative applications. Students design, develop, and code interactive software experiences integrating computer graphics, image assets, text and fonts, and additional digital media. Programming for Interactive Media is the first in a sequence of coding courses for the Emerging Media Technology program, preparing students for advanced coursework in the program.
