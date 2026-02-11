@@ -7,7 +7,7 @@ _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual
 
 2. **Create a new repository** on your GitHub account online. Title the repository MTEC1201_FirstName (for example: MTEC1201_Alexandra). Select "Public" for repository type. **Check the box to initialize the repository with a README**.  
 
-3. **Send me your GitHub user name on Discord.**  
+3. **Send me your GitHub user name on Discord, in our #github channel.**  
 
 4.  **Download GitHub for Desktop** at: https://desktop.github.com . Install and open the application. Sign in with your Github.com login.
 
@@ -24,7 +24,7 @@ _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual
     * Place your SS1 folder into your **_local_** GitHub repository (stored on your computer).   
     * Go back to the GitHub Desktop app. You should see a notice of uncommitted changes, because your local repo just changed.   
     * Select the changes that you want to commit, and write a summary of the commit within the summary field (for example: “add SS1”).  
-    * Select “commit to master”. You should now see no more uncommitted changes.   
+    * Select “commit to main. You should now see no more uncommitted changes.   
     * **One more very critical step!** Currently, your commits are saved to your local repo, and we want to mirror these changes on the online repo. To do this, we "push" the commits. In the desktop app menu, go to Repository--> Push.   
     * Check your online repo. You should see your SS1 folder there now.    
     * Go through the same process for any remaining assignments.
