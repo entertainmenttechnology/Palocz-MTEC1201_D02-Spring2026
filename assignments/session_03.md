@@ -16,7 +16,7 @@ The drawing must react to the mouse and/or keyboard in some way and must include
     * A brief explanation of the concept or theme you are choosing to explore for the semester and how this sketch ties into it.   
     * Instructions for the user (for example, "press mouse to see the tree fall") 
 
-Save the completed sketch as "SS2_[FirstName + Last Initial]" (for example, "SS2_Alexandra"). Push to your Class GitHub Repo **before the beginning of our next class** and also have the sketch ready to show for that class.    
+Save the completed sketch as "SS2_[FirstName + Last Initial]" (for example, "SS2_AlexandraP"). Push to your Class GitHub Repo **before the beginning of our next class** and also have the sketch ready to show for that class.    
 
 ### **Review the following...**        
 Variables:       
