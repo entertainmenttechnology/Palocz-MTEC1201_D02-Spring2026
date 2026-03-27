@@ -1,4 +1,4 @@
-## Due before class on Friday, 10/10
+## Due before class on Friday, 3/13
 
 ### **Midterm Project WIP**    
 
