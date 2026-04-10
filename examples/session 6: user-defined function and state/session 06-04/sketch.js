@@ -14,6 +14,7 @@
  let scene = 1; //creating state variable called scene
  let expand = 0; //used in scene 3 animation
  
+
  function setup() 
  {
    createCanvas (500, 500);
